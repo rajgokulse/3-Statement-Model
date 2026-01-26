@@ -14,8 +14,8 @@ Excel modeling structure
 Error checks & controls
 Files Explained
 
-Model → Main Excel model
+Model - Main Excel model
 
-Screenshots→ Visuals
+Screenshots- Visuals
 
-Docs → Assumptions & notes
+Docs - Assumptions & notes
