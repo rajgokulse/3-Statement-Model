@@ -1,4 +1,4 @@
-# 3-Statement-Financial-Model
+# 3-Statement-Model of Tata Steel
 “3-Statement financial model built from scratch with integrated schedules"
 **Model Includes**
 Income Statement
