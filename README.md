@@ -15,7 +15,4 @@ Error checks & controls
 Files Explained
 
 Model - Main Excel model
-
-Screenshots- Visuals
-
 Docs - Assumptions & notes
